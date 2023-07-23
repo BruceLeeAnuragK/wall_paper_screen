@@ -30,7 +30,7 @@ class _HouseWallpaperState extends State<HouseWallpaper> {
           backgroundColor: Colors.deepPurple,
           centerTitle: true,
           title: Text(
-            "Animal Wallpaper",
+            "House Wallpaper",
             style: TextStyle(
               color: Colors.white,
               fontSize: 20,

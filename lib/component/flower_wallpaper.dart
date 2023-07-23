@@ -30,7 +30,7 @@ class _FlowerWallPapersState extends State<FlowerWallPapers> {
           backgroundColor: Colors.deepPurple,
           centerTitle: true,
           title: Text(
-            "Animal Wallpaper",
+            "Flower Wallpaper",
             style: TextStyle(
               color: Colors.white,
               fontSize: 20,
