@@ -7,9 +7,7 @@
 <img scr="https://github.com/BruceLeeAnuragK/wall_paper_screen/assets/113960212/c5ac61df-3118-4e89-b27c-d09445fe8087" height="200">
 <img scr="https://github.com/BruceLeeAnuragK/wall_paper_screen/assets/113960212/dcd80225-aa7c-4c3b-abf9-abd99cb5dab6" height="200">
 <img scr="https://github.com/BruceLeeAnuragK/wall_paper_screen/assets/113960212/01d4b62f-bdce-4245-91a1-169aac724884" height="200">
-
-https://github.com/BruceLeeAnuragK/wall_paper_screen/assets/113960212/2e71ffe2-6928-44a6-94f9-177fa8807791
-
+https://github.com/BruceLeeAnuragK/wall_paper_screen/assets/113960212/3ef65cab-22fa-4851-920e-8c0e1504b2fe
 
 
 
